@@ -10,6 +10,7 @@ FIXME: to be filled in with what we know
 ## How I check it is...
 
 df 
+
 du -sk /blumeta0
 
 
